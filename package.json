@@ -1,0 +1,21 @@
+{
+  "name": "codee-quiz-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "quiz.js",
+  "type": "module",
+  "bin": "quiz.js",
+  "public": "access",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.22"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
